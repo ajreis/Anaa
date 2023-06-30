@@ -1,0 +1,341 @@
+body{
+margin: 0;
+padding: 0;
+background-color: rgb(255, 255, 255);
+}
+
+/*Página para celular*/
+@media only screen and (min-width: 340px) {
+    .proj1{
+        width: 360px;
+        height: 740px;
+        background-color: rgb(99, 65, 161);
+        margin: auto;
+    }
+    .proj2{
+        width: 360px;
+        height: 300px;
+        background-color: rgb(180, 160, 218);
+        margin-top: 385px;
+        display:flex;
+    }
+
+    .proj3{
+        width: 200px;
+        height: 100px;
+      margin-left: 80px;
+      margin-top: 150px;
+      font-size: 20px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .proj4{
+        width: 320px;
+        height: 380px;
+   
+     margin-left: 30px;
+     margin-top: -640px;
+    }
+/*Página 2*/
+.pro1{
+    width: 360px;
+    height: 1200px;
+    background-color: rgb(236, 236, 236);
+    margin: auto;
+    
+}
+.pro2{
+    width: 360px;
+    height: 300px;
+    background-image: url(/Imagens/Fundo\ 1.png);
+
+    display: flex;
+    
+}
+.texto1{
+    width: 300px;
+    height: 100px;
+    margin-left: 30px;
+margin-top: 50px;
+    font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: aliceblue;
+    }
+    .caixa{
+        width: 240px;
+        height: 990px;
+        background-color: rgba(131, 0, 224, 0);
+        margin-top: -30px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-left: 60px;
+    }
+    .texto2{
+        width: 360px;
+        height: 300px;
+        display: flex;
+        margin-top: -120px;
+        background-image: url(/Imagens/Fundo\ 1.png);
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .ptexto{
+            width: 300px;
+            height: 100px;
+            margin: auto;
+            margin-top: 130px;
+            color: aliceblue;
+         
+        }
+        /*Página 3*/
+.projeto1{
+    width: 360px;
+    height: 1700px;
+    background-color: rgb(235, 232, 238);
+    margin: auto;
+}
+.projeto2{
+    width: 360px;
+    height: 800px;
+   background-image: url(/Imagens/Florence.png);
+}
+.projeto3{
+    width: 360px;
+    height: 740px;
+    
+    margin-top: -500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.projeto4{
+    width: 180px;
+    height: 180px;
+   
+    font-size: 25px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.projeto5{
+    width: 360px;
+    height: 740px;
+    
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+            
+/*Página 4*/
+.quadrado1{
+    width: 360px;
+    height: 1200px;
+    background-color: rgb(222, 213, 231);
+    margin: auto;
+}
+.quadrado2{
+    width: 360px;
+    height: 644px;
+    background-image: url(/Imagens/Ana\ 3.png);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.cai{
+    width: 180px;
+    height: 180px;
+    font-size: 25px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    margin-left: px;
+}
+.letra{
+    width: 150px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: -100px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(0, 0, 0);
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 900px){
+    .proj1{
+        width: 800px;
+        height: 700px;
+        background-color: rgb(168, 150, 201);
+        margin: auto;
+    }
+    .proj2{
+        width: 800px;
+        height: 300px;
+        background-color: rgba(105, 56, 155, 0.726);
+        margin-top: 150px;
+        display:flex;
+    }
+    .proj3{
+        width: 200px;
+        height: 100px;
+      margin-left: 80px;
+      margin-top: 150px;
+      font-size: 20px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+
+    .proj4{
+        width: 300px;
+        height: 450px;
+        background-color: rgb(77, 123, 192);
+     margin-left: 40px;
+     margin-top: -370px;
+    }
+
+
+/*Página 2*/
+    .pro1{
+        width: 800px;
+        height: 700px;
+        background-color: rgb(236, 236, 236);
+        margin: auto;
+        
+    }
+    .pro2{
+        width: 300px;
+        height: 644px;
+        background-image: url(/Imagens/Fundo\ 1.png);
+        margin-left: 500px;
+        display: flex;
+        
+    }
+    .texto1{
+        width: 200px;
+        height: 100px;
+        margin-left: 50px;
+        margin-top: 500px;
+        font-size: 20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .caixa{
+            width: 700px;
+            height: 225px;
+            background-color: rgba(113, 78, 138, 0);
+            margin-top: -450px;
+            display: flex;
+            justify-content: space-around;
+        }
+        .pro3{
+            width: 150px;
+            height: 225px;
+            background-color: rgb(59, 27, 75);
+
+        }
+        .texto2{
+            width: 200px;
+            height: 100px;
+            margin-left: 50px;
+            margin-top: -400px;
+            font-size: 20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+            .ptexto{
+                width: 300px;
+                height: 100px;
+                margin: auto;
+                margin-top: 10px;
+                color: aliceblue;
+             
+            }
+/*Página 3*/
+.projeto1{
+    width: 800px;
+    height: 700px;
+    background-color: rgb(235, 232, 238);
+    margin: auto;
+}
+.projeto2{
+    width: 400px;
+    height: 644px;
+   background-image: url(/Imagens/Florence.png);}
+.projeto3{
+    width: 800px;
+    height: 180px;
+    margin-top: -500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.projeto4{
+    width: 180px;
+    height: 180px;
+    font-size: 25px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.projeto5{
+    width: 800px;
+    height: 180px;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/*Página 4*/
+.quadrado1{
+    width: 800px;
+    height: 700px;
+    background-color: rgb(222, 213, 231);
+    margin: auto;
+}
+.quadrado2{
+    width: 400px;
+    height: 644px;
+    background-image: url(/Imagens/Ana\ 3.png);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.cai{
+    width: 180px;
+    height: 180px;
+    font-size: 25px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+}
+.letra{
+    width: 150px;
+    height: 100px;
+    
+    margin-left: 700px;
+    margin-top: -100px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(0, 0, 0);
+}
+            
+
+
+
+
+
+
+
+}
+
+
+
+
+  
